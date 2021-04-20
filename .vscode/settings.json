@@ -8,5 +8,22 @@
         ["tink_validation.hxml"], // if a hxml file is safe to use, we can just pass it as argument
         // you can add more than one configuration and switch between them
         ["tests.hxml"]
-    ]
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#0e0e98",
+        "titleBar.activeBackground": "#0a0a69",
+        "titleBar.activeForeground": "#e7e7e7",
+        "activityBar.activeBackground": "#0e0e98",
+        "activityBar.activeBorder": "#cc1313",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#cc1313",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "statusBar.background": "#0a0a69",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#0e0e98",
+        "titleBar.inactiveBackground": "#0a0a6999",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#0a0a69"
 }
