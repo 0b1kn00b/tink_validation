@@ -29,7 +29,7 @@ class Macro
 		var ct = t.toComplex();
 		var pos = Context.currentPos();
 		
-		var cl = macro class $name extends tink.validation.Extractor.ExtractorBase {}
+		var cl = macro class $name extends tink.validation.ExtractorBase {}
 		
 		cl.meta.push({
 			name: ':keep',
